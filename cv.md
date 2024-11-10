@@ -1,5 +1,3 @@
-[rsschool-rs](https://github.com/AlexMarlik/rsschool-cv/cv)
-
 # Aleksandr Moiseev
 
 ## Contacts
