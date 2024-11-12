@@ -21,7 +21,15 @@ I work in internet marketing, I do website development, SEO, contextual advertis
 
 ## Code example
 
-Keep development...
+```
+function grow(x){
+  let prod = 1
+  for (let i = 0 ; i < x.length ; i++) {
+    prod *= x[i]
+  }
+  return prod
+}
+```
 
 ## Experience
 
